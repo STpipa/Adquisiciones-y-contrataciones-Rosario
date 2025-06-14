@@ -22,6 +22,6 @@ Te invito a explorar el notebook completo (`Adquisiciones_y_Contrataciones_Rosar
 Los datos utilizados en este análisis fueron obtenidos del **Portal de Gobierno Abierto de la Municipalidad de Rosario**. Los datasets corresponden a las compras y licitaciones de los períodos 2023 y 2024.
 
 * **Portal Principal de Datos Abiertos:** [https://datos.rosario.gob.ar/](https://datos.rosario.gob.ar/)
-* **Dataset Específico - Compras y Licitaciones:** [https://datos.rosario.gob.ar/dataset/compras-y-licitaciones](https://datos.rosario.gob.ar/dataset/compras-y-licitaciones)
+* **Dataset Específico - Compras y Licitaciones:** [https://datosabiertos.rosario.gob.ar/dataset/20b1772b-95c1-431e-ac79-72a1a539c12f]
 
 El acceso a esta información pública es un pilar fundamental para la transparencia y el control ciudadano. Se agradece a la Municipalidad de Rosario por facilitar estos datos.
