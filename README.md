@@ -16,3 +16,12 @@ A continuación, se presentan los descubrimientos más importantes:
 * **Límites en la Transparencia de los Datos:** Un hallazgo fundamental es la dificultad para realizar un análisis exhaustivo debido a la falta de datos estructurados. La información crítica, como el **proveedor adjudicado** y el **monto final adjudicado**, se encuentra en un campo de texto libre ('Resultado'), lo que impide un seguimiento automatizado y preciso. La publicación de estos datos en columnas separadas mejoraría radicalmente la transparencia y el control ciudadano.
 
 Te invito a explorar el notebook completo (`Adquisiciones_y_Contrataciones_Rosario.ipynb`) para ver el detalle del código, la metodología y los resultados completos.
+
+## Fuente de los Datos
+
+Los datos utilizados en este análisis fueron obtenidos del **Portal de Gobierno Abierto de la Municipalidad de Rosario**. Los datasets corresponden a las compras y licitaciones de los períodos 2023 y 2024.
+
+* **Portal Principal de Datos Abiertos:** [https://datos.rosario.gob.ar/](https://datos.rosario.gob.ar/)
+* **Dataset Específico - Compras y Licitaciones:** [https://datos.rosario.gob.ar/dataset/compras-y-licitaciones](https://datos.rosario.gob.ar/dataset/compras-y-licitaciones)
+
+El acceso a esta información pública es un pilar fundamental para la transparencia y el control ciudadano. Se agradece a la Municipalidad de Rosario por facilitar estos datos.
